@@ -15,7 +15,7 @@ La Municipalidad de NYC se encuentra buscando nuevas soluciones para reducir la 
 
 Para esto, crea una nueva división dentro del área de Transporte de la Ciudad, la cual va a estar encargada de trabajar con todos los datos que diariamente se recaban en NYC, más específicamente con los relacionados a transporte. Esta nueva sección va a estar integrada por ingenieros de datos, especialistas en machine learning, analistas de datos, todos con la finalidad de aplicar sus distintos conocimientos para tratar la información y poder llegar, mediante datos, a escenarios que intenten solucionar el problema que tiene la Ciudad de Nueva York en cuanto a la siniestralidad vial.
 
-Para esto pone a disponibilidad toda su base de datos, la cual se puede acceder mediante API's o en formato CSV. Es importante tener en cuenta, que las fuentes de información no solamente pueden ser internas, sino que también se pueden utilizar o cruzar con información (viable) externa. Además, no hay un máximo de información que puedan incluir, siempre y cuando pueda ser relacionada a la propuesta.
+Para esto pone a disponibilidad toda su base de datos, la cual se puede acceder mediante API's o en formato CSV. Es importante tener en cuenta que las fuentes de información no solamente pueden ser internas, sino que también se pueden utilizar o cruzar con información (viable) externa. Además, no hay un máximo de información que puedan incluir, siempre y cuando pueda ser relacionada a la propuesta.
 
 ## Datasets y Fuentes de información
 Fuente principal:
