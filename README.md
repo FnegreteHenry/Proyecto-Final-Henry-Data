@@ -1,4 +1,4 @@
-# Proyecto Grupal Henry: NYC tránsito y siniestralidad vial
+# Proyecto Grupal Henry: NYC tránsito y siniestros viales
 
 <center> 
 
